@@ -1,0 +1,11 @@
+{
+  "name": "respawnsive/respawnsive-products-groups-access",
+  "description": "Module to put product in groups (PGA)",
+  "autoload": {
+    "psr-4": {
+      "Respawnsive\\Pga\\": "src/"
+    }
+  },
+  "license": "MIT",
+  "type": "prestashop-module"
+}
